@@ -1,1 +1,3 @@
 # ForkPullRequestTraining
+
+フォークとプルリクエストのトレーニング用データ
